@@ -1,0 +1,22 @@
+Row,Row
+ID,unique id for every player
+Name,Nombre
+Age,Edad
+Nationality,Nacionalidad
+Overall,Calificaci¢n general (mas grande mejor)
+Potential,Potencial (mas grande mejor)
+Club,Equipo
+Value,Valor en el mercado
+Wage,Salario
+Preferred Foot,Pie preferido left/right
+International Reputation,Reputacion Internacional (rating on scale of 5)
+Weak Foot,rating on scale of 5
+Skill Moves,rating on scale of 5
+Position,Posici¢n en el Campo
+Jersey Number,Numero Camiseta
+Joined_Club,Fecha inicio equipo
+Loaned From,Prestamo de
+Contract Valid Until,Contrato valido hasta
+Height,Altura (in)
+Weight,Peso (lbs)
+Release Clause,Clausula de retiro
